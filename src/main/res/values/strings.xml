@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Slatki Zalogaji</string>
+    <string name="login">Prijavite se:</string>
+    <string name="login_button">Prijavite se</string>
+    <string name="register">Registracija</string>
+    <string name="welcome">Dobrodošli!</string>
+    <string name="enter">Unesite</string>
+    <string name="noacc">Nemate nalog? Registrujte se ovde.</string>
+    <string name="haveacc">Imate nalog? Prijavite se ovde.</string>
+    <string name="help">Help</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="name">Ime:</string>
+    <string name="lastname">Prezime:</string>
+    <string name="phone">Telefon:</string>
+    <string name="address">Adresa:</string>
+    <string name="username">Korisničko ime:</string>
+    <string name="password">Lozinka:</string>
+
+    <string name="promotions">Promocije</string>
+    <string name="products">Proizvodi</string>
+    <string name="contact">Kontakt</string>
+    <string name="basket">Korpa</string>
+    <string name="account">Nalog</string>
+    <string name="messages">Obaveštenja</string>
+    <string name="logout">Odjavite se</string>
+
+    <string name="cakes">Torte</string>
+    <string name="cupcakes">Kolači</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="contact_address">Adresa:</string>
+    <string name="contact_address_val">Bulevar kralja Aleksandra 73, Beograd</string>
+    <string name="contact_phone">Kontakt telefon:</string>
+    <string name="contact_phone_val">060 00 000 00</string>
+    <string name="contact_time">Radno vreme:</string>
+    <string name="contact_time_week">radni dani: 08:00 - 20:00 vikend: neradan</string>
+    <string name="contact_time_weekend">vikend: neradan</string>
+    <string name="contact_location">Lokacija:</string>
+
+    <string name="product_name">Naziv: </string>
+    <string name="product_description">Opis: </string>
+    <string name="product_price">Cena: </string>
+    <string name="product_composition">Sastav: </string>
+    <string name="product_count">Količina: </string>
+    <string name="product_inc">+</string>
+    <string name="product_dec">-</string>
+    <string name="product_add">Dodajte u korpu</string>
+    <string name="product_comments">Komentari:</string>
+    <string name="product_add_comment">Ostavite svoj komentar:</string>
+
+    <string name="account_modify">Izmenite</string>
+
+    <string name="basket_remove">Uklonite</string>
+    <string name="basket_totalPrice">Ukupno:</string>
+    <string name="basket_order">Naručite</string>
+    <string name="basket_empty">Korpa je prazna.</string>
+    <string name="basket_status_wait">Čeka se</string>
+    <string name="basket_status_accept">Prihaćen</string>
+    <string name="basket_status_deny">Odbijen</string>
+    <string name="basket_message">Uspešno naručeno!</string>
+
+    <string name="messages_order">Narudžbina: </string>
+    <string name="messages_price">Iznos: </string>
+    <string name="messages_date">Datum: </string>
+    <string name="messages_status">Status: </string>
+    <string name="messages_empty">Nema obaveštenja.</string>
+
+    <string name="image_description"> </string>
+
+</resources>
